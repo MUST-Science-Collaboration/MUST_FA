@@ -1,0 +1,95 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: MODULE, datatype: int32, description: Module number}
+# - {name: OFFSET_X, unit: mm, datatype: float32, description: X location of module region corner}
+# - {name: OFFSET_Y, unit: mm, datatype: float32, description: Y location of module region corner}
+# - {name: EXCLUSION, datatype: string, description: The exclusion polygon for this module}
+# - {name: DIRECTION, datatype: int32, description: Triangle direction of this module (0-5 times 60)}
+# meta: {armlen: 1.8, mdist: 0.0, mpdist: 7.819913117058832, nmod: 270, npos: 20250, npos_mod: 75, nside: 12.0, pdist: 6.05}
+# schema: astropy-2.0
+MODULE OFFSET_X OFFSET_Y EXCLUSION DIRECTION
+0 0.0 0.0 module0 0
+1 0.0 0.0 module1 0
+2 0.0 0.0 module2 0
+3 0.0 0.0 module3 0
+4 0.0 0.0 module4 0
+5 0.0 0.0 module5 0
+6 0.0 0.0 module6 0
+7 0.0 0.0 module7 0
+8 0.0 0.0 module8 0
+9 0.0 0.0 module9 0
+10 0.0 0.0 module10 0
+11 0.0 0.0 module11 0
+12 0.0 0.0 module12 0
+13 0.0 0.0 module13 0
+14 0.0 0.0 module14 0
+15 0.0 0.0 module15 0
+16 0.0 0.0 module16 0
+17 0.0 0.0 module17 0
+18 0.0 0.0 module18 0
+19 0.0 0.0 module19 0
+20 0.0 0.0 module20 0
+21 0.0 0.0 module21 0
+22 0.0 0.0 module22 0
+23 0.0 0.0 module23 0
+24 0.0 0.0 module24 0
+25 0.0 0.0 module25 0
+26 0.0 0.0 module26 0
+27 0.0 0.0 module27 0
+28 0.0 0.0 module28 0
+29 0.0 0.0 module29 0
+30 0.0 0.0 module30 0
+31 0.0 0.0 module31 0
+32 0.0 0.0 module32 0
+33 0.0 0.0 module33 0
+34 0.0 0.0 module34 0
+35 0.0 0.0 module35 0
+36 0.0 0.0 module36 0
+37 0.0 0.0 module37 0
+38 0.0 0.0 module38 0
+39 0.0 0.0 module39 0
+40 0.0 0.0 module40 0
+41 0.0 0.0 module41 0
+42 0.0 0.0 module42 0
+43 0.0 0.0 module43 0
+44 0.0 0.0 module44 0
+45 0.0 0.0 module45 0
+46 0.0 0.0 module46 0
+47 0.0 0.0 module47 0
+48 0.0 0.0 module48 0
+49 0.0 0.0 module49 0
+50 0.0 0.0 module50 0
+51 0.0 0.0 module51 0
+52 0.0 0.0 module52 0
+53 0.0 0.0 module53 0
+54 0.0 0.0 module54 0
+55 0.0 0.0 module55 0
+56 0.0 0.0 module56 0
+57 0.0 0.0 module57 0
+58 0.0 0.0 module58 0
+59 0.0 0.0 module59 0
+60 0.0 0.0 module60 0
+61 0.0 0.0 module61 0
+62 0.0 0.0 module62 0
+63 0.0 0.0 module63 0
+64 0.0 0.0 module64 0
+65 0.0 0.0 module65 0
+66 0.0 0.0 module66 0
+67 0.0 0.0 module67 0
+68 0.0 0.0 module68 0
+69 0.0 0.0 module69 0
+70 0.0 0.0 module70 0
+71 0.0 0.0 module71 0
+72 0.0 0.0 module72 0
+73 0.0 0.0 module73 0
+74 0.0 0.0 module74 0
+75 0.0 0.0 module75 0
+76 0.0 0.0 module76 0
+77 0.0 0.0 module77 0
+78 0.0 0.0 module78 0
+79 0.0 0.0 module79 0
+80 0.0 0.0 module80 0
+81 0.0 0.0 module81 0
+82 0.0 0.0 module82 0
+83 0.0 0.0 module83 0

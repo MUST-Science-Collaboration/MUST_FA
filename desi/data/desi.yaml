@@ -1,0 +1,74 @@
+#- DESI basic parameters
+#- 18 Mar 2020  (unchanged from v15)
+#- Parameters for calculating effective area, from DESI-0347v6
+#-   trussarea = 0.5*(M1_diameter-obscuration_diameter) * M2_support_width
+#-   geomarea = PI*(M1_diameter/2)^2 - PI*(obscuration_diameter/2)^2 - 4*trussarea
+area:
+    M1_diameter: 3.797          # meters
+    obscuration_diameter: 1.8   # meters
+    M2_support_width: 0.03      # meters
+    geometric_area: 8.658739421 # m^2, derived
+
+#- Fiber parameters, from DESI-0347v5
+fibers:
+    diameter_um: 107.0          # microns (canonical)
+    diameter_arcsec: 1.52       # arcsec (average; derived quantity)
+
+#- Fiber positioners, from DESI-0455v1
+positioners:
+    #- Patrol radius has maximum reach, and inner minimum unreachable
+    radius_max: 6.0     # max patrol radius [mm]
+    radius_min: 0.1     # best estimate min patrol radius [mm]
+    
+#- From DESI-0334v3 spectrograph design
+spectro:
+    fiber_spacing: 0.230        # center-to-center spacing on slit [mm]
+    fiber_group_spacing: 0.556  # cen-to-cen gap between groups on slit [mm]
+    fibers_per_group: 25        #
+    groups_per_ccd: 20          #
+    nfibers: 500                # should = fibers_per_group * groups_per_ccd
+
+#- CCD parameters from DESI-0334v3 and DESI-0336v4; readnoise from CDR spec
+#- read noise and darkcurrent updated from DESI-0347 v14
+#- NOTE: wavelengths run in the Y direction
+#- NOTE: npix_x does *not* include the prescanpixels
+ccd:
+    b:
+        pixsize: 15.0       # pixel size [microns]
+        npix_x: 4096        # number of pixels in x direction (# columns)
+        npix_y: 4096        # number of pixels in y direction (# rows)
+        prescanpixels: 4    # number of pre-scan pixels
+        keepoutpixels: 5    # number of pixels at detector edge with large distortion
+        readnoise: 3.29     # electrons/pixel RMS
+        darkcurrent: 1.89   # electrons/hour/pixel
+        gain: 1.0           # electrons per ADU
+    r:
+        pixsize: 15.0       # pixel size [microns]
+        npix_x: 4114        # number of pixels in x direction (# columns)
+        npix_y: 4128        # number of pixels in y direction (# rows)
+        prescanpixels: 7    # number of pre-scan pixels
+        keepoutpixels: 20   # number of pixels at detector edge with large distortion
+        thickness: 250      # CCD thickness [microns]
+        readnoise: 2.69     # electrons/pixel RMS
+        darkcurrent: 1.14   # electrons/hour/pixel
+        gain: 1.0           # electrons per ADU
+    z:
+        pixsize: 15.0       # pixel size [microns]
+        npix_x: 4114        # number of pixels in x direction (# columns)
+        npix_y: 4128        # number of pixels in y direction (# rows)
+        prescanpixels: 7    # number of pre-scan pixels
+        keepoutpixels: 20   # number of pixels at detector edge with large distortion
+        thickness: 250      # CCD thickness [microns]
+        readnoise: 2.69     # electrons/pixel RMS
+        darkcurrent: 1.14   # electrons/hour/pixel
+        gain: 1.0           # electrons per ADU
+        
+#- Exposure times
+exptime_dark: 1000.0              # airmass=1 dust=0 reference exp time *TBC* [sec]
+exptime_bright: 300.0        # default exp time for bright time
+t_interexp_normal: 120       # time between exposures [seconds]
+t_interexp_same_field: 60    # sec between exposures if repeating same field
+
+#- Jacoby seeing (subtract in quadrature from Dey and Valdes seeing values)
+
+jacoby_seeing: 0.219         # arcsec FWHM

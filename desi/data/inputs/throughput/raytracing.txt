@@ -1,0 +1,1203 @@
+Whole band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.31443308E-014  1.90926685E-015
+RMS Spot Radius   :  1.56900183E+001 um
+RMS Spot X Size   :  1.10945183E+001 um
+RMS Spot Y Size   :  1.10945183E+001 um
+Max Spot Radius   :  4.77164316E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  3.50549977E-015  3.64689829E+001
+RMS Spot Radius   :  1.62045912E+001 um
+RMS Spot X Size   :  1.10289225E+001 um
+RMS Spot Y Size   :  1.18723058E+001 um
+Max Spot Radius   :  5.70187425E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -6.30306889E-015  7.30198200E+001
+RMS Spot Radius   :  1.76089512E+001 um
+RMS Spot X Size   :  1.08775955E+001 um
+RMS Spot Y Size   :  1.38474937E+001 um
+Max Spot Radius   :  5.95007427E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.01677290E-014  1.09734671E+002
+RMS Spot Radius   :  1.91079098E+001 um
+RMS Spot X Size   :  1.06094918E+001 um
+RMS Spot Y Size   :  1.58918502E+001 um
+Max Spot Radius   :  5.49106351E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -9.12115877E-015  1.46696414E+002
+RMS Spot Radius   :  1.93842320E+001 um
+RMS Spot X Size   :  1.00607223E+001 um
+RMS Spot Y Size   :  1.65689564E+001 um
+Max Spot Radius   :  4.75594343E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  3.97451684E-015  1.83989217E+002
+RMS Spot Radius   :  1.77452279E+001 um
+RMS Spot X Size   :  9.29144798E+000 um
+RMS Spot Y Size   :  1.51182707E+001 um
+Max Spot Radius   :  4.04612065E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  3.57110084E-015  2.21699259E+002
+RMS Spot Radius   :  1.50196602E+001 um
+RMS Spot X Size   :  8.51081956E+000 um
+RMS Spot Y Size   :  1.23756270E+001 um
+Max Spot Radius   :  3.82849647E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  3.72493899E-015  2.59915450E+002
+RMS Spot Radius   :  1.32622704E+001 um
+RMS Spot X Size   :  7.46083929E+000 um
+RMS Spot Y Size   :  1.09646566E+001 um
+Max Spot Radius   :  3.35066876E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  5.60079134E-015  2.98729906E+002
+RMS Spot Radius   :  1.43006330E+001 um
+RMS Spot X Size   :  7.29974032E+000 um
+RMS Spot Y Size   :  1.22972312E+001 um
+Max Spot Radius   :  3.19365213E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  5.16576691E-015  3.38237777E+002
+RMS Spot Radius   :  1.87534068E+001 um
+RMS Spot X Size   :  1.09086228E+001 um
+RMS Spot Y Size   :  1.52542523E+001 um
+Max Spot Radius   :  5.47394417E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.14184159E-014  3.78536207E+002
+RMS Spot Radius   :  2.39581961E+001 um
+RMS Spot X Size   :  1.23038045E+001 um
+RMS Spot Y Size   :  2.05575182E+001 um
+Max Spot Radius   :  1.21759316E+002 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -5.80996089E-015  4.05893603E+002
+RMS Spot Radius   :  1.78144738E+001 um
+RMS Spot X Size   :  9.52368836E+000 um
+RMS Spot Y Size   :  1.50550602E+001 um
+Max Spot Radius   :  1.11789144E+002 um
+
+360-375nm
+
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.31912748E-014  1.68879783E-015
+RMS Spot Radius   :  2.56752649E+001 um
+RMS Spot X Size   :  1.81551539E+001 um
+RMS Spot Y Size   :  1.81551539E+001 um
+Max Spot Radius   :  4.77167979E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  4.69399031E-015  3.64629639E+001
+RMS Spot Radius   :  2.43268573E+001 um
+RMS Spot X Size   :  1.75908214E+001 um
+RMS Spot Y Size   :  1.68035410E+001 um
+Max Spot Radius   :  5.10001771E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -7.15253578E-015  7.30087333E+001
+RMS Spot Radius   :  2.10791270E+001 um
+RMS Spot X Size   :  1.61844062E+001 um
+RMS Spot Y Size   :  1.35053542E+001 um
+Max Spot Radius   :  4.85439345E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.34921354E-014  1.09720315E+002
+RMS Spot Radius   :  1.78329529E+001 um
+RMS Spot X Size   :  1.45694751E+001 um
+RMS Spot Y Size   :  1.02832195E+001 um
+Max Spot Radius   :  4.41193117E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -3.88481664E-015  1.46681228E+002
+RMS Spot Radius   :  1.60094792E+001 um
+RMS Spot X Size   :  1.32124416E+001 um
+RMS Spot Y Size   :  9.04073068E+000 um
+Max Spot Radius   :  4.01596283E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  5.26886554E-015  1.83975986E+002
+RMS Spot Radius   :  1.51475819E+001 um
+RMS Spot X Size   :  1.20395001E+001 um
+RMS Spot Y Size   :  9.19237048E+000 um
+Max Spot Radius   :  3.69169313E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  4.74117683E-015  2.21690705E+002
+RMS Spot Radius   :  1.40228382E+001 um
+RMS Spot X Size   :  1.04146972E+001 um
+RMS Spot Y Size   :  9.39010506E+000 um
+Max Spot Radius   :  3.24285857E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  5.64412908E-015  2.59913654E+002
+RMS Spot Radius   :  1.20856795E+001 um
+RMS Spot X Size   :  7.64674221E+000 um
+RMS Spot Y Size   :  9.35900538E+000 um
+Max Spot Radius   :  2.94032509E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.30503778E-015  2.98735393E+002
+RMS Spot Radius   :  1.09738013E+001 um
+RMS Spot X Size   :  6.51867443E+000 um
+RMS Spot Y Size   :  8.82786484E+000 um
+Max Spot Radius   :  2.89051958E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  5.26541074E-015  3.38247874E+002
+RMS Spot Radius   :  1.66193083E+001 um
+RMS Spot X Size   :  1.14708176E+001 um
+RMS Spot Y Size   :  1.20258784E+001 um
+Max Spot Radius   :  4.99205374E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.09694825E-014  3.78541794E+002
+RMS Spot Radius   :  2.82406170E+001 um
+RMS Spot X Size   :  1.20134132E+001 um
+RMS Spot Y Size   :  2.55579802E+001 um
+Max Spot Radius   :  1.27346769E+002 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -7.98163387E-015  4.05887095E+002
+RMS Spot Radius   :  2.18988591E+001 um
+RMS Spot X Size   :  4.97105020E+000 um
+RMS Spot Y Size   :  2.13271820E+001 um
+Max Spot Radius   :  1.05300653E+002 um
+
+360-400 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -9.38046724E-015  2.05021885E-015
+RMS Spot Radius   :  2.18928366E+001 um
+RMS Spot X Size   :  1.54805732E+001 um
+RMS Spot Y Size   :  1.54805732E+001 um
+Max Spot Radius   :  4.77167979E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  5.76912096E-015  3.64638229E+001
+RMS Spot Radius   :  2.07702431E+001 um
+RMS Spot X Size   :  1.49944799E+001 um
+RMS Spot Y Size   :  1.43724936E+001 um
+Max Spot Radius   :  5.18591630E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -6.81254878E-015  7.30103345E+001
+RMS Spot Radius   :  1.82272233E+001 um
+RMS Spot X Size   :  1.38096870E+001 um
+RMS Spot Y Size   :  1.18963950E+001 um
+Max Spot Radius   :  5.00174601E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.12109785E-014  1.09722439E+002
+RMS Spot Radius   :  1.60984315E+001 um
+RMS Spot X Size   :  1.24993162E+001 um
+RMS Spot Y Size   :  1.01452743E+001 um
+Max Spot Radius   :  4.52719670E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -5.76961517E-015  1.46683579E+002
+RMS Spot Radius   :  1.53051064E+001 um
+RMS Spot X Size   :  1.14142618E+001 um
+RMS Spot Y Size   :  1.01961223E+001 um
+Max Spot Radius   :  4.09265115E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  4.95150436E-015  1.83978233E+002
+RMS Spot Radius   :  1.48940118E+001 um
+RMS Spot X Size   :  1.04181982E+001 um
+RMS Spot Y Size   :  1.06439060E+001 um
+Max Spot Radius   :  3.72123670E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  3.55114567E-015  2.21692536E+002
+RMS Spot Radius   :  1.38399866E+001 um
+RMS Spot X Size   :  8.97578399E+000 um
+RMS Spot Y Size   :  1.05347297E+001 um
+Max Spot Radius   :  3.23751746E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  4.84546902E-015  2.59914856E+002
+RMS Spot Radius   :  1.21283773E+001 um
+RMS Spot X Size   :  6.69925124E+000 um
+RMS Spot Y Size   :  1.01102705E+001 um
+Max Spot Radius   :  3.22633123E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.68256257E-015  2.98735979E+002
+RMS Spot Radius   :  1.16746938E+001 um
+RMS Spot X Size   :  7.01657328E+000 um
+RMS Spot Y Size   :  9.33092573E+000 um
+Max Spot Radius   :  3.14893179E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  3.59492896E-015  3.38248310E+002
+RMS Spot Radius   :  1.72108467E+001 um
+RMS Spot X Size   :  1.25918892E+001 um
+RMS Spot Y Size   :  1.17327563E+001 um
+Max Spot Radius   :  5.03570120E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.06050322E-014  3.78543459E+002
+RMS Spot Radius   :  2.73600703E+001 um
+RMS Spot X Size   :  1.33730973E+001 um
+RMS Spot Y Size   :  2.38690954E+001 um
+Max Spot Radius   :  1.29010977E+002 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -7.26264146E-015  4.05890778E+002
+RMS Spot Radius   :  1.99622201E+001 um
+RMS Spot X Size   :  5.85956050E+000 um
+RMS Spot Y Size   :  1.90828661E+001 um
+Max Spot Radius   :  1.08973074E+002 um
+
+375-450 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.06436400E-014  1.02136555E-015
+RMS Spot Radius   :  1.52553259E+001 um
+RMS Spot X Size   :  1.07871444E+001 um
+RMS Spot Y Size   :  1.07871444E+001 um
+Max Spot Radius   :  3.82106464E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  3.64521711E-015  3.64655707E+001
+RMS Spot Radius   :  1.47321058E+001 um
+RMS Spot X Size   :  1.05129512E+001 um
+RMS Spot Y Size   :  1.03205038E+001 um
+Max Spot Radius   :  4.36228477E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -4.02940790E-015  7.30135701E+001
+RMS Spot Radius   :  1.39821840E+001 um
+RMS Spot X Size   :  9.91638639E+000 um
+RMS Spot Y Size   :  9.85731967E+000 um
+Max Spot Radius   :  4.32665868E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -8.52299741E-015  1.09726672E+002
+RMS Spot Radius   :  1.42298184E+001 um
+RMS Spot X Size   :  9.35485054E+000 um
+RMS Spot Y Size   :  1.07226164E+001 um
+Max Spot Radius   :  3.87771388E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -6.58280196E-015  1.46688150E+002
+RMS Spot Radius   :  1.49601756E+001 um
+RMS Spot X Size   :  8.82395058E+000 um
+RMS Spot Y Size   :  1.20807595E+001 um
+Max Spot Radius   :  3.46222353E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  7.69647921E-015  1.83982397E+002
+RMS Spot Radius   :  1.47644373E+001 um
+RMS Spot X Size   :  8.06482545E+000 um
+RMS Spot Y Size   :  1.23671824E+001 um
+Max Spot Radius   :  3.19819651E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  3.80364732E-015  2.21695582E+002
+RMS Spot Radius   :  1.33376454E+001 um
+RMS Spot X Size   :  6.84932341E+000 um
+RMS Spot Y Size   :  1.14446299E+001 um
+Max Spot Radius   :  3.46421947E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  4.16701028E-015  2.59916279E+002
+RMS Spot Radius   :  1.16477005E+001 um
+RMS Spot X Size   :  5.43930702E+000 um
+RMS Spot Y Size   :  1.02996537E+001 um
+Max Spot Radius   :  3.38061107E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  4.27387609E-015  2.98735750E+002
+RMS Spot Radius   :  1.20681734E+001 um
+RMS Spot X Size   :  7.64935286E+000 um
+RMS Spot Y Size   :  9.33424931E+000 um
+Max Spot Radius   :  3.16577230E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  5.33894072E-015  3.38247369E+002
+RMS Spot Radius   :  1.76347081E+001 um
+RMS Spot X Size   :  1.37720412E+001 um
+RMS Spot Y Size   :  1.10142548E+001 um
+Max Spot Radius   :  4.05578844E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  9.22454414E-015  3.78544684E+002
+RMS Spot Radius   :  2.55275462E+001 um
+RMS Spot X Size   :  1.49176556E+001 um
+RMS Spot Y Size   :  2.07151916E+001 um
+Max Spot Radius   :  1.14910564E+002 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -1.15433037E-014  4.05896074E+002
+RMS Spot Radius   :  1.63837268E+001 um
+RMS Spot X Size   :  7.33368662E+000 um
+RMS Spot Y Size   :  1.46507182E+001 um
+Max Spot Radius   :  9.22742683E+001 um
+
+400-500 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.23494630E-014  2.21457381E-015
+RMS Spot Radius   :  1.14995591E+001 um
+RMS Spot X Size   :  8.13141625E+000 um
+RMS Spot Y Size   :  8.13141625E+000 um
+Max Spot Radius   :  2.74802831E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  6.12009364E-015  3.64670268E+001
+RMS Spot Radius   :  1.16382220E+001 um
+RMS Spot X Size   :  8.10439625E+000 um
+RMS Spot Y Size   :  8.35266257E+000 um
+Max Spot Radius   :  3.38182122E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -4.47636678E-015  7.30162387E+001
+RMS Spot Radius   :  1.25401153E+001 um
+RMS Spot X Size   :  8.13717748E+000 um
+RMS Spot Y Size   :  9.54153212E+000 um
+Max Spot Radius   :  3.48244702E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.14511130E-014  1.09730094E+002
+RMS Spot Radius   :  1.42420916E+001 um
+RMS Spot X Size   :  8.23365868E+000 um
+RMS Spot Y Size   :  1.16208449E+001 um
+Max Spot Radius   :  3.12033107E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -5.49163514E-015  1.46691701E+002
+RMS Spot Radius   :  1.53745921E+001 um
+RMS Spot X Size   :  8.04275573E+000 um
+RMS Spot Y Size   :  1.31031356E+001 um
+Max Spot Radius   :  2.91776999E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  6.13614729E-015  1.83985371E+002
+RMS Spot Radius   :  1.47715739E+001 um
+RMS Spot X Size   :  7.31790053E+000 um
+RMS Spot Y Size   :  1.28315131E+001 um
+Max Spot Radius   :  3.49527073E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  2.35732052E-015  2.21697295E+002
+RMS Spot Radius   :  1.26965028E+001 um
+RMS Spot X Size   :  6.14896675E+000 um
+RMS Spot Y Size   :  1.11081678E+001 um
+Max Spot Radius   :  3.63478578E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  5.08594508E-015  2.59916222E+002
+RMS Spot Radius   :  1.07282757E+001 um
+RMS Spot X Size   :  5.09010147E+000 um
+RMS Spot Y Size   :  9.44387455E+000 um
+Max Spot Radius   :  3.37564492E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  4.50092224E-015  2.98733831E+002
+RMS Spot Radius   :  1.15264253E+001 um
+RMS Spot X Size   :  7.58089106E+000 um
+RMS Spot Y Size   :  8.68265922E+000 um
+Max Spot Radius   :  2.97371063E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  2.91448405E-016  3.38244349E+002
+RMS Spot Radius   :  1.72133132E+001 um
+RMS Spot X Size   :  1.35875625E+001 um
+RMS Spot Y Size   :  1.05677006E+001 um
+Max Spot Radius   :  3.70325223E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.17936958E-014  3.78543045E+002
+RMS Spot Radius   :  2.40267758E+001 um
+RMS Spot X Size   :  1.49652295E+001 um
+RMS Spot Y Size   :  1.87970174E+001 um
+Max Spot Radius   :  9.76348111E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -1.19859126E-014  4.05897762E+002
+RMS Spot Radius   :  1.45622985E+001 um
+RMS Spot X Size   :  8.05986373E+000 um
+RMS Spot Y Size   :  1.21284432E+001 um
+Max Spot Radius   :  6.95935364E+001 um
+
+450-550 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.28705026E-014  1.18375767E-015
+RMS Spot Radius   :  1.02009944E+001 um
+RMS Spot X Size   :  7.21319233E+000 um
+RMS Spot Y Size   :  7.21319233E+000 um
+Max Spot Radius   :  1.71056601E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  2.37675496E-015  3.64684731E+001
+RMS Spot Radius   :  1.09007263E+001 um
+RMS Spot X Size   :  7.41743832E+000 um
+RMS Spot Y Size   :  7.98795615E+000 um
+Max Spot Radius   :  2.43911201E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -4.30901276E-015  7.30188623E+001
+RMS Spot Radius   :  1.28375358E+001 um
+RMS Spot X Size   :  7.94619465E+000 um
+RMS Spot Y Size   :  1.00826741E+001 um
+Max Spot Radius   :  2.71172886E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.18814576E-014  1.09733386E+002
+RMS Spot Radius   :  1.50164616E+001 um
+RMS Spot X Size   :  8.41944658E+000 um
+RMS Spot Y Size   :  1.24341079E+001 um
+Max Spot Radius   :  2.69086337E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -4.61162284E-015  1.46694971E+002
+RMS Spot Radius   :  1.58891518E+001 um
+RMS Spot X Size   :  8.32309635E+000 um
+RMS Spot Y Size   :  1.35348148E+001 um
+Max Spot Radius   :  3.18388124E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  6.57027830E-015  1.83987827E+002
+RMS Spot Radius   :  1.46140527E+001 um
+RMS Spot X Size   :  7.54783697E+000 um
+RMS Spot Y Size   :  1.25140199E+001 um
+Max Spot Radius   :  3.68787291E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  3.83752639E-015  2.21698162E+002
+RMS Spot Radius   :  1.18216362E+001 um
+RMS Spot X Size   :  6.41725205E+000 um
+RMS Spot Y Size   :  9.92824044E+000 um
+Max Spot Radius   :  3.60433804E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  4.39275563E-015  2.59914901E+002
+RMS Spot Radius   :  9.38735141E+000 um
+RMS Spot X Size   :  5.28565299E+000 um
+RMS Spot Y Size   :  7.75785015E+000 um
+Max Spot Radius   :  3.11811184E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  4.90715896E-015  2.98730154E+002
+RMS Spot Radius   :  9.99534003E+000 um
+RMS Spot X Size   :  6.80197231E+000 um
+RMS Spot Y Size   :  7.32393303E+000 um
+Max Spot Radius   :  2.54850832E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  2.18283484E-015  3.38239039E+002
+RMS Spot Radius   :  1.55841056E+001 um
+RMS Spot X Size   :  1.21484233E+001 um
+RMS Spot Y Size   :  9.76115570E+000 um
+Max Spot Radius   :  3.98553586E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.21338355E-014  3.78538617E+002
+RMS Spot Radius   :  2.21127046E+001 um
+RMS Spot X Size   :  1.37283497E+001 um
+RMS Spot Y Size   :  1.73350547E+001 um
+Max Spot Radius   :  8.73884638E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -8.91785006E-015  4.05896524E+002
+RMS Spot Radius   :  1.39576445E+001 um
+RMS Spot X Size   :  8.29281211E+000 um
+RMS Spot Y Size   :  1.12269812E+001 um
+Max Spot Radius   :  4.57350752E+001 um
+
+500-600 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.13994268E-014  1.10447551E-015
+RMS Spot Radius   :  1.04543308E+001 um
+RMS Spot X Size   :  7.39232822E+000 um
+RMS Spot Y Size   :  7.39232822E+000 um
+Max Spot Radius   :  1.36431419E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  4.75080809E-015  3.64694693E+001
+RMS Spot Radius   :  1.13117949E+001 um
+RMS Spot X Size   :  7.66519982E+000 um
+RMS Spot Y Size   :  8.31873886E+000 um
+Max Spot Radius   :  2.17404459E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -3.64145459E-015  7.30206541E+001
+RMS Spot Radius   :  1.34308936E+001 um
+RMS Spot X Size   :  8.31102886E+000 um
+RMS Spot Y Size   :  1.05506257E+001 um
+Max Spot Radius   :  2.58315716E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.11582939E-014  1.09735593E+002
+RMS Spot Radius   :  1.55036991E+001 um
+RMS Spot X Size   :  8.83014677E+000 um
+RMS Spot Y Size   :  1.27433588E+001 um
+Max Spot Radius   :  2.69165489E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -6.95985002E-015  1.46697074E+002
+RMS Spot Radius   :  1.60268687E+001 um
+RMS Spot X Size   :  8.72403887E+000 um
+RMS Spot Y Size   :  1.34443916E+001 um
+Max Spot Radius   :  3.22039486E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  7.66558936E-015  1.83989231E+002
+RMS Spot Radius   :  1.43712889E+001 um
+RMS Spot X Size   :  8.01596724E+000 um
+RMS Spot Y Size   :  1.19280432E+001 um
+Max Spot Radius   :  3.53355581E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  4.26492087E-015  2.21698271E+002
+RMS Spot Radius   :  1.14330642E+001 um
+RMS Spot X Size   :  7.11570101E+000 um
+RMS Spot Y Size   :  8.94884099E+000 um
+Max Spot Radius   :  3.25563707E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  4.44004676E-015  2.59913239E+002
+RMS Spot Radius   :  9.13030490E+000 um
+RMS Spot X Size   :  5.96764737E+000 um
+RMS Spot Y Size   :  6.91011233E+000 um
+Max Spot Radius   :  2.60280970E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.86957774E-015  2.98726543E+002
+RMS Spot Radius   :  9.36488527E+000 um
+RMS Spot X Size   :  6.06733142E+000 um
+RMS Spot Y Size   :  7.13362219E+000 um
+Max Spot Radius   :  1.93223927E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  1.37362970E-015  3.38233922E+002
+RMS Spot Radius   :  1.41776935E+001 um
+RMS Spot X Size   :  1.03264053E+001 um
+RMS Spot Y Size   :  9.71454299E+000 um
+Max Spot Radius   :  4.17178859E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  8.59347822E-015  3.78533694E+002
+RMS Spot Radius   :  2.04904438E+001 um
+RMS Spot X Size   :  1.20291989E+001 um
+RMS Spot Y Size   :  1.65878467E+001 um
+Max Spot Radius   :  8.65686382E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -1.22449755E-014  4.05893613E+002
+RMS Spot Radius   :  1.37749823E+001 um
+RMS Spot X Size   :  8.47909599E+000 um
+RMS Spot Y Size   :  1.08561075E+001 um
+Max Spot Radius   :  3.57929974E+001 um
+
+550-650 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.21535823E-014  3.46133620E-015
+RMS Spot Radius   :  1.07648843E+001 um
+RMS Spot X Size   :  7.61192271E+000 um
+RMS Spot Y Size   :  7.61192271E+000 um
+Max Spot Radius   :  1.40868977E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  6.02231650E-015  3.64702590E+001
+RMS Spot Radius   :  1.16730308E+001 um
+RMS Spot X Size   :  7.90700467E+000 um
+RMS Spot Y Size   :  8.58713722E+000 um
+Max Spot Radius   :  2.15482163E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -5.64161491E-015  7.30220780E+001
+RMS Spot Radius   :  1.38148706E+001 um
+RMS Spot X Size   :  8.58339478E+000 um
+RMS Spot Y Size   :  1.08247856E+001 um
+Max Spot Radius   :  2.68591238E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.20309980E-014  1.09737356E+002
+RMS Spot Radius   :  1.57658659E+001 um
+RMS Spot X Size   :  9.10745028E+000 um
+RMS Spot Y Size   :  1.28692221E+001 um
+Max Spot Radius   :  2.91536545E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -5.79504015E-015  1.46698775E+002
+RMS Spot Radius   :  1.60989040E+001 um
+RMS Spot X Size   :  9.03002546E+000 um
+RMS Spot Y Size   :  1.33279162E+001 um
+Max Spot Radius   :  3.09927811E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  3.85207293E-015  1.83990402E+002
+RMS Spot Radius   :  1.44009016E+001 um
+RMS Spot X Size   :  8.49421595E+000 um
+RMS Spot Y Size   :  1.16290267E+001 um
+Max Spot Radius   :  3.27234137E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  4.90725221E-015  2.21698445E+002
+RMS Spot Radius   :  1.18741657E+001 um
+RMS Spot X Size   :  7.94673312E+000 um
+RMS Spot Y Size   :  8.82299523E+000 um
+Max Spot Radius   :  3.14229795E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  5.02608541E-015  2.59912031E+002
+RMS Spot Radius   :  1.03504962E+001 um
+RMS Spot X Size   :  7.00338940E+000 um
+RMS Spot Y Size   :  7.62137188E+000 um
+Max Spot Radius   :  2.86047141E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.86384887E-015  2.98723788E+002
+RMS Spot Radius   :  1.04671704E+001 um
+RMS Spot X Size   :  6.08767288E+000 um
+RMS Spot Y Size   :  8.51480448E+000 um
+Max Spot Radius   :  2.02674834E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  2.43941350E-015  3.38229913E+002
+RMS Spot Radius   :  1.39413674E+001 um
+RMS Spot X Size   :  8.95625627E+000 um
+RMS Spot Y Size   :  1.06839692E+001 um
+Max Spot Radius   :  4.28355048E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  7.71492523E-015  3.78529654E+002
+RMS Spot Radius   :  1.95592173E+001 um
+RMS Spot X Size   :  1.07248826E+001 um
+RMS Spot Y Size   :  1.63566461E+001 um
+Max Spot Radius   :  8.54460262E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -7.67439967E-015  4.05890968E+002
+RMS Spot Radius   :  1.39590654E+001 um
+RMS Spot X Size   :  9.15603156E+000 um
+RMS Spot Y Size   :  1.05367259E+001 um
+Max Spot Radius   :  3.31462569E+001 um
+
+600-700 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -9.02111806E-015  3.85188994E-015
+RMS Spot Radius   :  1.10245512E+001 um
+RMS Spot X Size   :  7.79553490E+000 um
+RMS Spot Y Size   :  7.79553490E+000 um
+Max Spot Radius   :  1.46736962E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  4.43356871E-015  3.64709599E+001
+RMS Spot Radius   :  1.19623528E+001 um
+RMS Spot X Size   :  8.10285671E+000 um
+RMS Spot Y Size   :  8.80009078E+000 um
+Max Spot Radius   :  2.20439691E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -3.95907396E-015  7.30233557E+001
+RMS Spot Radius   :  1.41135901E+001 um
+RMS Spot X Size   :  8.79478278E+000 um
+RMS Spot Y Size   :  1.10383523E+001 um
+Max Spot Radius   :  2.81386289E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.34418297E-014  1.09738975E+002
+RMS Spot Radius   :  1.59912776E+001 um
+RMS Spot X Size   :  9.32367252E+000 um
+RMS Spot Y Size   :  1.29919241E+001 um
+Max Spot Radius   :  3.07883137E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -4.10632275E-015  1.46700411E+002
+RMS Spot Radius   :  1.62506824E+001 um
+RMS Spot X Size   :  9.28983096E+000 um
+RMS Spot Y Size   :  1.33335561E+001 um
+Max Spot Radius   :  3.10264589E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  7.95831409E-015  1.83991681E+002
+RMS Spot Radius   :  1.46952520E+001 um
+RMS Spot X Size   :  8.93728772E+000 um
+RMS Spot Y Size   :  1.16651326E+001 um
+Max Spot Radius   :  3.23091738E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  2.41100578E-015  2.21698989E+002
+RMS Spot Radius   :  1.28017590E+001 um
+RMS Spot X Size   :  8.72875751E+000 um
+RMS Spot Y Size   :  9.36449818E+000 um
+Max Spot Radius   :  3.33522798E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  3.45100049E-015  2.59911525E+002
+RMS Spot Radius   :  1.21622432E+001 um
+RMS Spot X Size   :  8.05622244E+000 um
+RMS Spot Y Size   :  9.11139066E+000 um
+Max Spot Radius   :  3.08939055E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  2.47808423E-015  2.98722084E+002
+RMS Spot Radius   :  1.23897379E+001 um
+RMS Spot X Size   :  6.67083028E+000 um
+RMS Spot Y Size   :  1.04405761E+001 um
+Max Spot Radius   :  2.31371894E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  3.03647571E-015  3.38227218E+002
+RMS Spot Radius   :  1.46543919E+001 um
+RMS Spot X Size   :  8.23762080E+000 um
+RMS Spot Y Size   :  1.21199342E+001 um
+Max Spot Radius   :  4.32979986E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.22641996E-014  3.78526894E+002
+RMS Spot Radius   :  1.92758675E+001 um
+RMS Spot X Size   :  1.00163705E+001 um
+RMS Spot Y Size   :  1.64691041E+001 um
+Max Spot Radius   :  8.40226878E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -1.09456627E-014  4.05889260E+002
+RMS Spot Radius   :  1.45260040E+001 um
+RMS Spot X Size   :  1.01251947E+001 um
+RMS Spot Y Size   :  1.04156241E+001 um
+Max Spot Radius   :  3.21438572E+001 um
+
+650-750 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.33400995E-014  2.59599866E-015
+RMS Spot Radius   :  1.12748631E+001 um
+RMS Spot X Size   :  7.97253217E+000 um
+RMS Spot Y Size   :  7.97253217E+000 um
+Max Spot Radius   :  1.54782702E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  4.45398574E-015  3.64716325E+001
+RMS Spot Radius   :  1.22389187E+001 um
+RMS Spot X Size   :  8.28987251E+000 um
+RMS Spot Y Size   :  9.00384059E+000 um
+Max Spot Radius   :  2.24863228E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -4.97501369E-015  7.30245985E+001
+RMS Spot Radius   :  1.44056975E+001 um
+RMS Spot X Size   :  8.99302673E+000 um
+RMS Spot Y Size   :  1.12538700E+001 um
+Max Spot Radius   :  2.92992842E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.22621411E-014  1.09740594E+002
+RMS Spot Radius   :  1.62394502E+001 um
+RMS Spot X Size   :  9.51962721E+000 um
+RMS Spot Y Size   :  1.31566121E+001 um
+Max Spot Radius   :  3.24079308E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -5.91403625E-015  1.46702139E+002
+RMS Spot Radius   :  1.64687500E+001 um
+RMS Spot X Size   :  9.50747778E+000 um
+RMS Spot Y Size   :  1.34472150E+001 um
+Max Spot Radius   :  3.22847716E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  7.61229167E-015  1.83993210E+002
+RMS Spot Radius   :  1.50902173E+001 um
+RMS Spot X Size   :  9.28328294E+000 um
+RMS Spot Y Size   :  1.18968616E+001 um
+Max Spot Radius   :  3.32292788E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  6.43574199E-015  2.21700004E+002
+RMS Spot Radius   :  1.37865874E+001 um
+RMS Spot X Size   :  9.33186451E+000 um
+RMS Spot Y Size   :  1.01482164E+001 um
+Max Spot Radius   :  3.44931496E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  1.83744387E-015  2.59911762E+002
+RMS Spot Radius   :  1.38754265E+001 um
+RMS Spot X Size   :  8.90658198E+000 um
+RMS Spot Y Size   :  1.06395610E+001 um
+Max Spot Radius   :  3.23570997E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  2.96101434E-015  2.98721413E+002
+RMS Spot Radius   :  1.43012638E+001 um
+RMS Spot X Size   :  7.38161301E+000 um
+RMS Spot Y Size   :  1.22489974E+001 um
+Max Spot Radius   :  2.51290904E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  4.09320755E-015  3.38225795E+002
+RMS Spot Radius   :  1.57463208E+001 um
+RMS Spot X Size   :  8.03294189E+000 um
+RMS Spot Y Size   :  1.35432073E+001 um
+Max Spot Radius   :  4.31656836E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.03539318E-014  3.78525452E+002
+RMS Spot Radius   :  1.93793473E+001 um
+RMS Spot X Size   :  9.79350777E+000 um
+RMS Spot Y Size   :  1.67226286E+001 um
+Max Spot Radius   :  8.26583447E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -8.57214360E-015  4.05888671E+002
+RMS Spot Radius   :  1.53000989E+001 um
+RMS Spot X Size   :  1.10998028E+001 um
+RMS Spot Y Size   :  1.05303088E+001 um
+Max Spot Radius   :  3.16095618E+001 um
+
+700-800 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -8.67436918E-015  3.11759833E-015
+RMS Spot Radius   :  1.15687352E+001 um
+RMS Spot X Size   :  8.18033111E+000 um
+RMS Spot Y Size   :  8.18033111E+000 um
+Max Spot Radius   :  1.65387833E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  3.53365922E-015  3.64723085E+001
+RMS Spot Radius   :  1.25552325E+001 um
+RMS Spot X Size   :  8.50556444E+000 um
+RMS Spot Y Size   :  9.23521716E+000 um
+Max Spot Radius   :  2.25726537E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -6.53524945E-015  7.30258642E+001
+RMS Spot Radius   :  1.47346780E+001 um
+RMS Spot X Size   :  9.21258183E+000 um
+RMS Spot Y Size   :  1.14995249E+001 um
+Max Spot Radius   :  3.00118076E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.25143209E-014  1.09742285E+002
+RMS Spot Radius   :  1.65252067E+001 um
+RMS Spot X Size   :  9.71768699E+000 um
+RMS Spot Y Size   :  1.33659649E+001 um
+Max Spot Radius   :  3.38696239E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -7.77537964E-015  1.46704031E+002
+RMS Spot Radius   :  1.67113314E+001 um
+RMS Spot X Size   :  9.68043166E+000 um
+RMS Spot Y Size   :  1.36219617E+001 um
+Max Spot Radius   :  3.38872852E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  5.97151724E-015  1.83995039E+002
+RMS Spot Radius   :  1.54486586E+001 um
+RMS Spot X Size   :  9.49681388E+000 um
+RMS Spot Y Size   :  1.21848913E+001 um
+Max Spot Radius   :  3.43486702E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  4.24425149E-015  2.21701505E+002
+RMS Spot Radius   :  1.45817079E+001 um
+RMS Spot X Size   :  9.69961024E+000 um
+RMS Spot Y Size   :  1.08877806E+001 um
+Max Spot Radius   :  3.50347531E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  5.06250947E-015  2.59912709E+002
+RMS Spot Radius   :  1.52177906E+001 um
+RMS Spot X Size   :  9.47020230E+000 um
+RMS Spot Y Size   :  1.19120283E+001 um
+Max Spot Radius   :  3.30744825E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.18323262E-015  2.98721692E+002
+RMS Spot Radius   :  1.58635067E+001 um
+RMS Spot X Size   :  7.96248956E+000 um
+RMS Spot Y Size   :  1.37204083E+001 um
+Max Spot Radius   :  2.68651360E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  4.48869172E-015  3.38225527E+002
+RMS Spot Radius   :  1.68118030E+001 um
+RMS Spot X Size   :  8.10112976E+000 um
+RMS Spot Y Size   :  1.47312056E+001 um
+Max Spot Radius   :  4.29476217E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  5.56861294E-015  3.78525239E+002
+RMS Spot Radius   :  1.96207635E+001 um
+RMS Spot X Size   :  9.85655087E+000 um
+RMS Spot Y Size   :  1.69653401E+001 um
+Max Spot Radius   :  8.24416126E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -8.50021328E-015  4.05889195E+002
+RMS Spot Radius   :  1.61116832E+001 um
+RMS Spot X Size   :  1.19193443E+001 um
+RMS Spot Y Size   :  1.08404598E+001 um
+Max Spot Radius   :  3.34697383E+001 um
+
+750-850 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.08999564E-014 -9.94543031E-016
+RMS Spot Radius   :  1.19699745E+001 um
+RMS Spot X Size   :  8.46405014E+000 um
+RMS Spot Y Size   :  8.46405014E+000 um
+Max Spot Radius   :  1.78622512E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  5.59931337E-015  3.64730057E+001
+RMS Spot Radius   :  1.29691218E+001 um
+RMS Spot X Size   :  8.79291180E+000 um
+RMS Spot Y Size   :  9.53324823E+000 um
+Max Spot Radius   :  2.21937430E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -7.95179495E-015  7.30271837E+001
+RMS Spot Radius   :  1.51427867E+001 um
+RMS Spot X Size   :  9.49056740E+000 um
+RMS Spot Y Size   :  1.17997084E+001 um
+Max Spot Radius   :  3.01743807E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.27373551E-014  1.09744085E+002
+RMS Spot Radius   :  1.68665216E+001 um
+RMS Spot X Size   :  9.94574466E+000 um
+RMS Spot Y Size   :  1.36221039E+001 um
+Max Spot Radius   :  3.46902569E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -6.33994228E-015  1.46706116E+002
+RMS Spot Radius   :  1.69605274E+001 um
+RMS Spot X Size   :  9.82332195E+000 um
+RMS Spot Y Size   :  1.38261287E+001 um
+Max Spot Radius   :  3.51644654E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  7.27928071E-015  1.83997182E+002
+RMS Spot Radius   :  1.57041654E+001 um
+RMS Spot X Size   :  9.57768002E+000 um
+RMS Spot Y Size   :  1.24454351E+001 um
+Max Spot Radius   :  3.56541736E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  4.23273315E-015  2.21703475E+002
+RMS Spot Radius   :  1.50927868E+001 um
+RMS Spot X Size   :  9.82595015E+000 um
+RMS Spot Y Size   :  1.14561302E+001 um
+Max Spot Radius   :  3.57061844E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  5.40039565E-015  2.59914309E+002
+RMS Spot Radius   :  1.61227693E+001 um
+RMS Spot X Size   :  9.73462756E+000 um
+RMS Spot Y Size   :  1.28522650E+001 um
+Max Spot Radius   :  3.33153341E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  4.48549218E-015  2.98722820E+002
+RMS Spot Radius   :  1.69883149E+001 um
+RMS Spot X Size   :  8.31793847E+000 um
+RMS Spot Y Size   :  1.48126548E+001 um
+Max Spot Radius   :  2.88075397E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  3.96507557E-015  3.38226285E+002
+RMS Spot Radius   :  1.76602996E+001 um
+RMS Spot X Size   :  8.25357321E+000 um
+RMS Spot Y Size   :  1.56129661E+001 um
+Max Spot Radius   :  4.37055176E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  9.54294678E-015  3.78526136E+002
+RMS Spot Radius   :  1.98410215E+001 um
+RMS Spot X Size   :  1.00431479E+001 um
+RMS Spot Y Size   :  1.71114381E+001 um
+Max Spot Radius   :  8.29621936E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -1.05109376E-014  4.05890759E+002
+RMS Spot Radius   :  1.68675568E+001 um
+RMS Spot X Size   :  1.25270640E+001 um
+RMS Spot Y Size   :  1.12954478E+001 um
+Max Spot Radius   :  3.56392052E+001 um
+
+800-900 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.20001684E-014 -5.41133775E-016
+RMS Spot Radius   :  1.25510934E+001 um
+RMS Spot X Size   :  8.87496327E+000 um
+RMS Spot Y Size   :  8.87496327E+000 um
+Max Spot Radius   :  1.94412948E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  4.95910516E-015  3.64737337E+001
+RMS Spot Radius   :  1.35462062E+001 um
+RMS Spot X Size   :  9.20076665E+000 um
+RMS Spot Y Size   :  9.94211221E+000 um
+Max Spot Radius   :  2.32374427E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -4.22844029E-015  7.30285736E+001
+RMS Spot Radius   :  1.56807095E+001 um
+RMS Spot X Size   :  9.87072582E+000 um
+RMS Spot Y Size   :  1.21841464E+001 um
+Max Spot Radius   :  2.97845485E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.33120286E-014  1.09746011E+002
+RMS Spot Radius   :  1.72966973E+001 um
+RMS Spot X Size   :  1.02427323E+001 um
+RMS Spot Y Size   :  1.39377966E+001 um
+Max Spot Radius   :  3.48772430E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -6.00689169E-015  1.46708405E+002
+RMS Spot Radius   :  1.72299638E+001 um
+RMS Spot X Size   :  9.97073304E+000 um
+RMS Spot Y Size   :  1.40519086E+001 um
+Max Spot Radius   :  3.58062727E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  7.01357083E-015  1.83999635E+002
+RMS Spot Radius   :  1.58490406E+001 um
+RMS Spot X Size   :  9.55383512E+000 um
+RMS Spot Y Size   :  1.26458026E+001 um
+Max Spot Radius   :  3.64319755E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  3.91575428E-015  2.21705885E+002
+RMS Spot Radius   :  1.53093654E+001 um
+RMS Spot X Size   :  9.73338583E+000 um
+RMS Spot Y Size   :  1.18168468E+001 um
+Max Spot Radius   :  3.66471870E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  6.70246885E-015  2.59916502E+002
+RMS Spot Radius   :  1.66050181E+001 um
+RMS Spot X Size   :  9.71962420E+000 um
+RMS Spot Y Size   :  1.34631174E+001 um
+Max Spot Radius   :  3.37317804E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.23033522E-015  2.98724705E+002
+RMS Spot Radius   :  1.76845590E+001 um
+RMS Spot X Size   :  8.43266917E+000 um
+RMS Spot Y Size   :  1.55445720E+001 um
+Max Spot Radius   :  3.01815244E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  2.45281893E-015  3.38227946E+002
+RMS Spot Radius   :  1.82311988E+001 um
+RMS Spot X Size   :  8.39154315E+000 um
+RMS Spot Y Size   :  1.61851355E+001 um
+Max Spot Radius   :  4.49111938E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  1.06368294E-014  3.78528020E+002
+RMS Spot Radius   :  1.99643932E+001 um
+RMS Spot X Size   :  1.02617914E+001 um
+RMS Spot Y Size   :  1.71252046E+001 um
+Max Spot Radius   :  8.29816760E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -8.14652292E-015  4.05893272E+002
+RMS Spot Radius   :  1.75416535E+001 um
+RMS Spot X Size   :  1.29221553E+001 um
+RMS Spot Y Size   :  1.18628626E+001 um
+Max Spot Radius   :  3.80859166E+001 um
+
+900-980 band
+                                   X                Y
+Field coordinate  :  0.00000000E+000  0.00000000E+000
+Image coordinate  : -1.32655141E-014  9.30514633E-016
+RMS Spot Radius   :  1.37304127E+001 um
+RMS Spot X Size   :  9.70886793E+000 um
+RMS Spot Y Size   :  9.70886793E+000 um
+Max Spot Radius   :  2.24644091E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E-001
+Image coordinate  :  2.74417701E-015  3.64747253E+001
+RMS Spot Radius   :  1.46907026E+001 um
+RMS Spot X Size   :  1.00168406E+001 um
+RMS Spot Y Size   :  1.07461458E+001 um
+Max Spot Radius   :  2.64382347E+001 um
+
+Field coordinate  :  0.00000000E+000  3.00000000E-001
+Image coordinate  : -4.71129114E-015  7.30304819E+001
+RMS Spot Radius   :  1.67162932E+001 um
+RMS Spot X Size   :  1.06164774E+001 um
+RMS Spot Y Size   :  1.29121984E+001 um
+Max Spot Radius   :  2.93113976E+001 um
+
+Field coordinate  :  0.00000000E+000  4.50000000E-001
+Image coordinate  : -1.06260629E-014  1.09748693E+002
+RMS Spot Radius   :  1.81275374E+001 um
+RMS Spot X Size   :  1.08280055E+001 um
+RMS Spot Y Size   :  1.45382911E+001 um
+Max Spot Radius   :  3.51027710E+001 um
+
+Field coordinate  :  0.00000000E+000  6.00000000E-001
+Image coordinate  : -6.10762767E-015  1.46711668E+002
+RMS Spot Radius   :  1.77524411E+001 um
+RMS Spot X Size   :  1.02674936E+001 um
+RMS Spot Y Size   :  1.44819799E+001 um
+Max Spot Radius   :  3.65918211E+001 um
+
+Field coordinate  :  0.00000000E+000  7.50000000E-001
+Image coordinate  :  6.00625411E-015  1.84003249E+002
+RMS Spot Radius   :  1.60154736E+001 um
+RMS Spot X Size   :  9.45550471E+000 um
+RMS Spot Y Size   :  1.29262842E+001 um
+Max Spot Radius   :  3.71658516E+001 um
+
+Field coordinate  :  0.00000000E+000  9.00000000E-001
+Image coordinate  :  3.68145059E-015  2.21709620E+002
+RMS Spot Radius   :  1.52835421E+001 um
+RMS Spot X Size   :  9.34516761E+000 um
+RMS Spot Y Size   :  1.20935727E+001 um
+Max Spot Radius   :  3.75779387E+001 um
+
+Field coordinate  :  0.00000000E+000  1.05000000E+000
+Image coordinate  :  4.01600275E-015  2.59920159E+002
+RMS Spot Radius   :  1.67251926E+001 um
+RMS Spot X Size   :  9.32086273E+000 um
+RMS Spot Y Size   :  1.38871734E+001 um
+Max Spot Radius   :  3.44427521E+001 um
+
+Field coordinate  :  0.00000000E+000  1.20000000E+000
+Image coordinate  :  3.83910343E-015  2.98728181E+002
+RMS Spot Radius   :  1.80566657E+001 um
+RMS Spot X Size   :  8.23804012E+000 um
+RMS Spot Y Size   :  1.60679143E+001 um
+Max Spot Radius   :  3.23100856E+001 um
+
+Field coordinate  :  0.00000000E+000  1.35000000E+000
+Image coordinate  :  4.03505517E-015  3.38231336E+002
+RMS Spot Radius   :  1.86115789E+001 um
+RMS Spot X Size   :  8.50079400E+000 um
+RMS Spot Y Size   :  1.65567922E+001 um
+Max Spot Radius   :  4.63788157E+001 um
+
+Field coordinate  :  0.00000000E+000  1.50000000E+000
+Image coordinate  :  9.51541558E-015  3.78531821E+002
+RMS Spot Radius   :  2.00346239E+001 um
+RMS Spot X Size   :  1.05408625E+001 um
+RMS Spot Y Size   :  1.70374990E+001 um
+Max Spot Radius   :  8.34756749E+001 um
+
+Field coordinate  :  0.00000000E+000  1.60000000E+000
+Image coordinate  : -1.01448673E-014  4.05897845E+002
+RMS Spot Radius   :  1.84561310E+001 um
+RMS Spot X Size   :  1.31401890E+001 um
+RMS Spot Y Size   :  1.29601006E+001 um
+Max Spot Radius   :  4.40644843E+001 um

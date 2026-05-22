@@ -1,0 +1,10 @@
+Completeness Results Summary
+==================================================
+Generated: 2026-04-29 14:16:00
+
+Density: 4000
+------------------------------
+  Run: 2026-04-13T13:23
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 6
+

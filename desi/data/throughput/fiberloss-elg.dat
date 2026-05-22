@@ -1,0 +1,35 @@
+    # Fiber input geometric acceptance
+    # 1.1 arcsec seeing with Moffat beta=3.5 scales as (6355/lambda)^0.2
+    # Calculation removes 0.22 arcsec existing Mayall blur then adds DESI blur
+    # Lateral positioner offset=0.2 arcsec
+#
+# ELG with exponential half-light radius=0.45 arcsec
+#
+# Wavelength FiberAcceptance
+ 3500.0  0.38185
+ 3750.0  0.38723
+ 4000.0  0.39320
+ 4250.0  0.39800
+ 4500.0  0.40213
+ 4750.0  0.40640
+ 5000.0  0.41064
+ 5250.0  0.41445
+ 5500.0  0.41776
+ 5750.0  0.42054
+ 6000.0  0.42285
+ 6250.0  0.42478
+ 6500.0  0.42641
+ 6750.0  0.42784
+ 7000.0  0.42913
+ 7250.0  0.43035
+ 7500.0  0.43154
+ 7750.0  0.43274
+ 8000.0  0.43395
+ 8250.0  0.43520
+ 8500.0  0.43652
+ 8750.0  0.43793
+ 9000.0  0.43942
+ 9250.0  0.44091
+ 9500.0  0.44234
+ 9750.0  0.44366
+10000.0  0.44479

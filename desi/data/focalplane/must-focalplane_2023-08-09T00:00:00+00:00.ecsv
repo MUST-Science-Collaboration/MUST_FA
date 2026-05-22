@@ -1,0 +1,79 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: MODULE, datatype: int32}
+# - {name: OFFSET_P, unit: degrees, datatype: float32, description: PHI zero point angle}
+# - {name: OFFSET_T, unit: degrees, datatype: float32, description: THETA zero point angle}
+# - {name: OFFSET_Y, unit: mm, datatype: float32, description: Y location of positioner center}
+# - {name: OFFSET_X, unit: mm, datatype: float32, description: X location of positioner center}
+# - {name: FIBER, datatype: int32, description: MODULE * NfiberPerModule + SLITBLOCK * NfiberPerSlitblock + BLOCKFIBER}
+# - {name: BLOCKFIBER, datatype: int32, description: The fiber index within the slit block}
+# - {name: SLITBLOCK, datatype: int32, description: The slit block where this fiber goes}
+# - {name: DEVICE_TYPE, datatype: string, description: 'The device type (POS, ETC, FIF)'}
+# - {name: LOCATION, datatype: int32, description: MODULE * 1000 + DEVICE}
+# - {name: DEVICE, datatype: int32, description: Device location on the module}
+# - {name: LENGTH_R1, unit: mm, datatype: float32, description: Length of THETA arm}
+# - {name: LENGTH_R2, unit: mm, datatype: float32, description: Length of PHI arm}
+# meta: {armlen: 1.8, mdist: 0.2, mpdist: 6.5, nlayer: 1, nmod: 6, npos_mod: 10, nside: 4, pdist: 6.2}
+# schema: astropy-2.0
+MODULE OFFSET_P OFFSET_T OFFSET_Y OFFSET_X FIBER BLOCKFIBER SLITBLOCK DEVICE_TYPE LOCATION DEVICE LENGTH_R1 LENGTH_R2
+0 0.0 0.0 3.25 5.629165 0 0 0 POS 0 0 1.8 1.8
+0 0.0 0.0 3.25 11.829165 1 1 0 POS 1 1 1.8 1.8
+0 0.0 0.0 3.25 18.029165 2 2 0 POS 2 2 1.8 1.8
+0 0.0 0.0 3.25 24.229166 3 3 0 POS 3 3 1.8 1.8
+0 0.0 0.0 8.619357 8.729165 4 4 0 POS 4 4 1.8 1.8
+0 0.0 0.0 8.619357 14.929165 5 5 0 POS 5 5 1.8 1.8
+0 0.0 0.0 8.619357 21.129166 6 6 0 POS 6 6 1.8 1.8
+0 0.0 0.0 13.988715 11.829165 7 7 0 POS 7 7 1.8 1.8
+0 0.0 0.0 13.988715 18.029165 8 8 0 POS 8 8 1.8 1.8
+0 0.0 0.0 19.358072 14.929165 9 9 0 POS 9 9 1.8 1.8
+1 0.0 0.0 6.5 0.0 10 0 0 POS 1000 0 1.8 1.8
+1 0.0 0.0 11.869357 3.1 11 1 0 POS 1001 1 1.8 1.8
+1 0.0 0.0 17.238714 6.2 12 2 0 POS 1002 2 1.8 1.8
+1 0.0 0.0 22.608072 9.3 13 3 0 POS 1003 3 1.8 1.8
+1 0.0 0.0 11.869357 -3.1 14 4 0 POS 1004 4 1.8 1.8
+1 0.0 0.0 17.238714 0.0 15 5 0 POS 1005 5 1.8 1.8
+1 0.0 0.0 22.608072 3.1 16 6 0 POS 1006 6 1.8 1.8
+1 0.0 0.0 17.238714 -6.2 17 7 0 POS 1007 7 1.8 1.8
+1 0.0 0.0 22.608072 -3.1 18 8 0 POS 1008 8 1.8 1.8
+1 0.0 0.0 22.608072 -9.3 19 9 0 POS 1009 9 1.8 1.8
+2 0.0 0.0 3.25 -5.629165 20 0 0 POS 2000 0 1.8 1.8
+2 0.0 0.0 8.619357 -8.729165 21 1 0 POS 2001 1 1.8 1.8
+2 0.0 0.0 13.988715 -11.829165 22 2 0 POS 2002 2 1.8 1.8
+2 0.0 0.0 19.358072 -14.929165 23 3 0 POS 2003 3 1.8 1.8
+2 0.0 0.0 3.25 -11.829165 24 4 0 POS 2004 4 1.8 1.8
+2 0.0 0.0 8.619357 -14.929165 25 5 0 POS 2005 5 1.8 1.8
+2 0.0 0.0 13.988715 -18.029165 26 6 0 POS 2006 6 1.8 1.8
+2 0.0 0.0 3.25 -18.029165 27 7 0 POS 2007 7 1.8 1.8
+2 0.0 0.0 8.619357 -21.129166 28 8 0 POS 2008 8 1.8 1.8
+2 0.0 0.0 3.25 -24.229166 29 9 0 POS 2009 9 1.8 1.8
+3 0.0 0.0 -3.25 -5.629165 30 0 0 POS 3000 0 1.8 1.8
+3 0.0 0.0 -3.25 -11.829165 31 1 0 POS 3001 1 1.8 1.8
+3 0.0 0.0 -3.25 -18.029165 32 2 0 POS 3002 2 1.8 1.8
+3 0.0 0.0 -3.25 -24.229166 33 3 0 POS 3003 3 1.8 1.8
+3 0.0 0.0 -8.619357 -8.729165 34 4 0 POS 3004 4 1.8 1.8
+3 0.0 0.0 -8.619357 -14.929165 35 5 0 POS 3005 5 1.8 1.8
+3 0.0 0.0 -8.619357 -21.129166 36 6 0 POS 3006 6 1.8 1.8
+3 0.0 0.0 -13.988715 -11.829165 37 7 0 POS 3007 7 1.8 1.8
+3 0.0 0.0 -13.988715 -18.029165 38 8 0 POS 3008 8 1.8 1.8
+3 0.0 0.0 -19.358072 -14.929165 39 9 0 POS 3009 9 1.8 1.8
+4 0.0 0.0 -6.5 -0.0 40 0 0 POS 4000 0 1.8 1.8
+4 0.0 0.0 -11.869357 -3.1 41 1 0 POS 4001 1 1.8 1.8
+4 0.0 0.0 -17.238714 -6.2 42 2 0 POS 4002 2 1.8 1.8
+4 0.0 0.0 -22.608072 -9.3 43 3 0 POS 4003 3 1.8 1.8
+4 0.0 0.0 -11.869357 3.1 44 4 0 POS 4004 4 1.8 1.8
+4 0.0 0.0 -17.238714 -0.0 45 5 0 POS 4005 5 1.8 1.8
+4 0.0 0.0 -22.608072 -3.1 46 6 0 POS 4006 6 1.8 1.8
+4 0.0 0.0 -17.238714 6.2 47 7 0 POS 4007 7 1.8 1.8
+4 0.0 0.0 -22.608072 3.1 48 8 0 POS 4008 8 1.8 1.8
+4 0.0 0.0 -22.608072 9.3 49 9 0 POS 4009 9 1.8 1.8
+5 0.0 0.0 -3.25 5.629165 50 0 0 POS 5000 0 1.8 1.8
+5 0.0 0.0 -8.619357 8.729165 51 1 0 POS 5001 1 1.8 1.8
+5 0.0 0.0 -13.988715 11.829165 52 2 0 POS 5002 2 1.8 1.8
+5 0.0 0.0 -19.358072 14.929165 53 3 0 POS 5003 3 1.8 1.8
+5 0.0 0.0 -3.25 11.829165 54 4 0 POS 5004 4 1.8 1.8
+5 0.0 0.0 -8.619357 14.929165 55 5 0 POS 5005 5 1.8 1.8
+5 0.0 0.0 -13.988715 18.029165 56 6 0 POS 5006 6 1.8 1.8
+5 0.0 0.0 -3.25 18.029165 57 7 0 POS 5007 7 1.8 1.8
+5 0.0 0.0 -8.619357 21.129166 58 8 0 POS 5008 8 1.8 1.8
+5 0.0 0.0 -3.25 24.229166 59 9 0 POS 5009 9 1.8 1.8

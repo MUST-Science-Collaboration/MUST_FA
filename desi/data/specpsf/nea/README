@@ -1,0 +1,8 @@
+Master PSF NEA for each camera.
+Computed with desispec/scripts/master_nea.py
+
+Each file derived from the given camera psf file here:
+/global/cfs/cdirs/desi/spectro/redux/blanc/exposures/20201223/00069580/*
+
+E.g.  psf-r7-00069580.fits
+

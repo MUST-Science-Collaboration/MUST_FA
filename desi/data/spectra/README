@@ -1,0 +1,259 @@
+
+;------------------------------------------------------------------------------
+; DESI benchmark spectrum of AB=22 source
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux= 3631.e-23 * (3e8/(wave*1e-10)) * 10^(-22./2.5) * 1e17 / wave
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux
+struct_print,adat,file='spec-ABmag22.0.dat'
+
+; Test that the magnitude for this object is correct
+wavevec=10d0^(3.5d0+dindgen(6000)*1e-4)
+tmpflux=interpol(flux,wave,wavevec)
+flambda2fnu = wavevec^2 / 2.99792e18
+fthru = filter_thru(tmpflux * flambda2fnu, waveimg=wavevec, /toair)
+spectroflux = transpose(fthru) * 10^((22.5 + 48.6 - 2.5*17.)/2.5)
+thismag = 22.5-2.5*alog10(spectroflux) & print,thismag
+
+;------------------------------------------------------------------------------
+; DESI benchmark spectrum of QSO at z=1.5 and different mags
+file=getenv('IDLSPEC2D_DIR')+'/templates/spEigenQSO-55732.fits'
+flux_tmp=(mrdfits(file,0,hdr))[*,0]
+wave_tmp=10d0^(sxpar(hdr,'COEFF0')+dindgen(sxpar(hdr,'NAXIS1'))*sxpar(hdr,'COEFF1'))
+wave_tmp=(1+1.5)*wave_tmp ; redshift to z=1.5
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux=interpol(flux_tmp,wave_tmp,wave)
+
+; Compute the normalization to rmag=23.0
+wavevec=10d0^(3.5d0+dindgen(6000)*1e-4)
+tmpflux=interpol(flux,wave,wavevec)
+flambda2fnu = wavevec^2 / 2.99792e18
+fthru = filter_thru(tmpflux * flambda2fnu, waveimg=wavevec, /toair)
+spectroflux = transpose(fthru) * 10^((22.5 + 48.6 - 2.5*17.)/2.5)
+thismag = 22.5-2.5*alog10(spectroflux) & print,thismag
+
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+
+adat.flux=flux*10^(-(22.24-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z1.5-rmag22.24.dat'
+
+adat.flux=flux*10^(-(22.62-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z1.5-rmag22.62.dat'
+
+adat.flux=flux*10^(-(22.81-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z1.5-rmag22.81.dat'
+
+adat.flux=flux*10^(-(23.00-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z1.5-rmag23.00.dat'
+;------------------------------------------------------------------------------
+; DESI benchmark spectrum of QSO at z=2.4 and different mags
+file=getenv('IDLSPEC2D_DIR')+'/templates/spEigenQSO-55732.fits'
+flux_tmp=(mrdfits(file,0,hdr))[*,0]
+wave_tmp=10d0^(sxpar(hdr,'COEFF0')+dindgen(sxpar(hdr,'NAXIS1'))*sxpar(hdr,'COEFF1'))
+wave_tmp=(1+2.4)*wave_tmp ; redshift to z=2.4
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux=interpol(flux_tmp,wave_tmp,wave)
+
+; Compute the normalization to rmag=23.0
+wavevec=10d0^(3.5d0+dindgen(6000)*1e-4)
+tmpflux=interpol(flux,wave,wavevec)
+flambda2fnu = wavevec^2 / 2.99792e18
+fthru = filter_thru(tmpflux * flambda2fnu, waveimg=wavevec, /toair)
+spectroflux = transpose(fthru) * 10^((22.5 + 48.6 - 2.5*17.)/2.5)
+thismag = 22.5-2.5*alog10(spectroflux) & print,thismag
+
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+
+adat.flux=flux*10^(-(22.24-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z2.4-rmag22.24.dat'
+
+adat.flux=flux*10^(-(22.62-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z2.4-rmag22.62.dat'
+
+adat.flux=flux*10^(-(22.81-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z2.4-rmag22.81.dat'
+
+adat.flux=flux*10^(-(23.00-thismag[2])/2.5)
+struct_print,adat,file='spec-qso-z2.4-rmag23.00.dat'
+;------------------------------------------------------------------------------
+; DESI benchmark spectrum of LRG at z=0.7 and zmag=20.
+file=getenv('IDLSPEC2D_DIR')+'/templates/spEigenGal-boss_v0_new1.fits'
+flux_tmp=(mrdfits(file,0,hdr))[*,0]
+wave_tmp=10d0^(sxpar(hdr,'COEFF0')+dindgen(sxpar(hdr,'NAXIS1'))*sxpar(hdr,'COEFF1'))
+wave_tmp=(1+0.7)*wave_tmp ; redshift to z=0.7
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux=interpol(flux_tmp,wave_tmp,wave)
+
+wavevec=10d0^(3.5d0+dindgen(6000)*1e-4)
+tmpflux=interpol(flux,wave,wavevec)
+flambda2fnu = wavevec^2 / 2.99792e18
+fthru = filter_thru(tmpflux * flambda2fnu, waveimg=wavevec, /toair)
+spectroflux = transpose(fthru) * 10^((22.5 + 48.6 - 2.5*17.)/2.5)
+thismag = 22.5-2.5*alog10(spectroflux) & print,thismag
+
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux*10^(-(20.0-thismag[4])/2.5)
+struct_print,adat,file='spec-lrg-z0.7-zmag20.00.dat'
+
+;------------------------------------------------------------------------------
+; DESI benchmark spectrum of LRG at z=0.8 and zmag=20.38
+file=getenv('IDLSPEC2D_DIR')+'/templates/spEigenGal-boss_v0_new1.fits'
+flux_tmp=(mrdfits(file,0,hdr))[*,0]
+wave_tmp=10d0^(sxpar(hdr,'COEFF0')+dindgen(sxpar(hdr,'NAXIS1'))*sxpar(hdr,'COEFF1'))
+wave_tmp=(1+0.8)*wave_tmp ; redshift to z=0.8
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux=interpol(flux_tmp,wave_tmp,wave)
+
+wavevec=10d0^(3.5d0+dindgen(6000)*1e-4)
+tmpflux=interpol(flux,wave,wavevec)
+flambda2fnu = wavevec^2 / 2.99792e18
+fthru = filter_thru(tmpflux * flambda2fnu, waveimg=wavevec, /toair)
+spectroflux = transpose(fthru) * 10^((22.5 + 48.6 - 2.5*17.)/2.5)
+thismag = 22.5-2.5*alog10(spectroflux) & print,thismag
+
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux*10^(-(20.38-thismag[4])/2.5)
+struct_print,adat,file='spec-lrg-z0.8-zmag20.38.dat'
+
+;------------------------------------------------------------------------------
+; DESI benchmark spectrum of LRG at z=0.9 and zmag=20.57
+file=getenv('IDLSPEC2D_DIR')+'/templates/spEigenGal-boss_v0_new1.fits'
+flux_tmp=(mrdfits(file,0,hdr))[*,0]
+wave_tmp=10d0^(sxpar(hdr,'COEFF0')+dindgen(sxpar(hdr,'NAXIS1'))*sxpar(hdr,'COEFF1'))
+wave_tmp=(1+0.9)*wave_tmp ; redshift to z=0.9
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux=interpol(flux_tmp,wave_tmp,wave)
+
+wavevec=10d0^(3.5d0+dindgen(6000)*1e-4)
+tmpflux=interpol(flux,wave,wavevec)
+flambda2fnu = wavevec^2 / 2.99792e18
+fthru = filter_thru(tmpflux * flambda2fnu, waveimg=wavevec, /toair)
+spectroflux = transpose(fthru) * 10^((22.5 + 48.6 - 2.5*17.)/2.5)
+thismag = 22.5-2.5*alog10(spectroflux) & print,thismag
+
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux*10^(-(20.57-thismag[4])/2.5)
+struct_print,adat,file='spec-lrg-z0.9-zmag20.57.dat'
+
+;------------------------------------------------------------------------------
+; DESI benchmark sky spectrum in units of e-17 erg/s/cm^2/Ang/arcsec^2
+n=65000L
+dw=0.1d0
+wave=dindgen(n)*dw+3500d0
+flux=uves_sky(wave=wave,sigma=1.0*dw)
+; Normalize this to 1.0 at 8160 Ang
+contflux=median(flux[where(wave GT 8155 AND wave LT 8170)])
+flux=flux-contflux+1.
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux
+struct_print,adat,file='spec-sky.dat'
+
+;------------------------------------------------------------------------------
+; DESI benchmark ELG spectrum with integrated flux of 8e-17 erg/s/cm^2
+; Velocity dispersion=70 km/s, z=0.818
+n=65000L
+z=0.818d0
+dw=0.1d0
+sigma=70./3e5*(1+z)*3727.0917 ; vel dispersion in Ang
+wave=dindgen(n)*dw+3500d0
+flux=1.*exp(-0.5*(wave-(1+z)*3727.0917d0)^2/sigma^2) $
+ +1.3*exp(-0.5*(wave-(1+z)*3729.8754)^2/sigma^2)
+flux*=8.0/total(flux)/dw
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux
+struct_print,adat,file='spec-elg-z0.818.dat'
+
+;------------------------------------------------------------------------------
+; DESI benchmark ELG spectrum with integrated flux of 8e-17 erg/s/cm^2
+; Velocity dispersion=70 km/s, z=1.189
+n=65000L
+z=1.189d0
+dw=0.1d0
+sigma=70./3e5*(1+z)*3727.0917 ; vel dispersion in Ang
+wave=dindgen(n)*dw+3500d0
+flux=1.*exp(-0.5*(wave-(1+z)*3727.0917d0)^2/sigma^2) $
+ +1.3*exp(-0.5*(wave-(1+z)*3729.8754)^2/sigma^2)
+flux*=8.0/total(flux)/dw
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux
+struct_print,adat,file='spec-elg-z1.189.dat'
+
+;------------------------------------------------------------------------------
+; DESI benchmark ELG spectrum with integrated flux of 8e-17 erg/s/cm^2
+; Velocity dispersion=70 km/s, z=1.622
+n=65000L
+z=1.622d0
+dw=0.1d0
+sigma=70./3e5*(1+z)*3727.0917 ; vel dispersion in Ang
+wave=dindgen(n)*dw+3500d0
+flux=1.*exp(-0.5*(wave-(1+z)*3727.0917d0)^2/sigma^2) $
+ +1.3*exp(-0.5*(wave-(1+z)*3729.8754)^2/sigma^2)
+flux*=8.0/total(flux)/dw
+adat=replicate(create_struct('WAVELENGTH',0d,'FLUX',0.,name='SPEC'),n)
+adat.wavelength=wave
+adat.flux=flux
+struct_print,adat,file='spec-elg-z1.622.dat'
+
+;------------------------------------------------------------------------------
+; Atmospheric extinction
+adat=mrdfits('../inputs/throughput/ZenithExtinction-KPNO.fits',1)
+i=where(adat.wavelength GT 3500 AND adat.wavelength LT 10000)
+struct_print,adat[i],file='ZenithExtinction-KPNO.dat'
+
+;------------------------------------------------------------------------------
+k------------------------------------------------------------------------------
+; Now compuete the S/N for all of the above spectra
+
+setenv,'DESIMODEL=/Users/schlegel/desimodel'
+desi_quicksim,infile='spec-ABmag22.0.dat',model='sky',/outfile
+desi_quicksim,infile='spec-elg-z0.818.dat',model='elg',/outfile
+desi_quicksim,infile='spec-elg-z1.189.dat',model='elg',/outfile
+desi_quicksim,infile='spec-elg-z1.622.dat',model='elg',/outfile
+desi_quicksim,infile='spec-lrg-z0.7-zmag20.00.dat',model='lrg',/outfile
+desi_quicksim,infile='spec-lrg-z0.8-zmag20.38.dat',model='lrg',exptime=2000,/outfile
+desi_quicksim,infile='spec-lrg-z0.9-zmag20.57.dat',model='lrg',exptime=3000,/outfile
+desi_quicksim,infile='spec-qso-z1.5-rmag22.24.dat',model='star',exptime=1000,/outfile
+desi_quicksim,infile='spec-qso-z1.5-rmag22.62.dat',model='star',exptime=2000,/outfile
+desi_quicksim,infile='spec-qso-z1.5-rmag22.81.dat',model='star',exptime=3000,/outfile
+desi_quicksim,infile='spec-qso-z1.5-rmag23.00.dat',model='star',exptime=4000,/outfile
+desi_quicksim,infile='spec-qso-z2.4-rmag22.24.dat',model='star',exptime=1000,/outfile
+desi_quicksim,infile='spec-qso-z2.4-rmag22.62.dat',model='star',exptime=2000,/outfile
+desi_quicksim,infile='spec-qso-z2.4-rmag22.81.dat',model='star',exptime=3000,/outfile
+desi_quicksim,infile='spec-qso-z2.4-rmag23.00.dat',model='star',exptime=4000,/outfile
+
+file='sn-spec-qso-z1.5-rmag23.00.dat'
+file='sn-spec-qso-z1.5-rmag22.24.dat'
+readcol,file,wave,flux,snvec
+err=randomn(1234,n_elements(wave))*flux/(snvec + (snvec LE 0))
+splot,wave,smooth(flux+err,11), title=file,chars=1.6, $
+ xtitle='Wavelength [Ang]',ytitle=textoidl('Flux [10^{-17} erg/s/cm^{2}/Ang]'), $
+ yr=[-0.8,3]
+;yr=max(flux)*[-0.1,1.1]
+soplot,wave,flux/(snvec+(snvec LE 0))/sqrt(2),color='red'
+soplot,wave,flux,color='blue',thick=2
+sxyouts,4000,2.8,'WHITE = object',charsize=2
+sxyouts,4000,2.6,'BLUE = template',charsize=2
+sxyouts,4000,2.4,'RED = noise per Ang',charsize=2
+
+

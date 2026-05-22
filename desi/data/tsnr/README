@@ -1,0 +1,50 @@
+J. Guy 2021/09/21
+
+Copy 'everest' data release exposures table, 'exposures-everest.csv', as EFFTIME reference,
+while keeping only the main survey data.
+
+in python:
+
+from astropy.table import Table
+t=Table.read("/global/cfs/cdirs/desi/spectro/redux/everest/exposures-everest.fits")
+s=(t["SURVEY"]=="main")&(t["EFFTIME_SPEC"]>0)
+t=t[s]
+t.write("/global/homes/j/jguy/software/desispec/py/desispec/data/tsnr/tsnr_refset_etc.csv",overwrite=True)
+
+Use this new table to calibrate the effective times from the TSNR2 values, in bash:
+
+for ifile in `ls  $DESIMODEL/data/tsnr/tsnr-ensemble-*.fits` ; do
+ofile=`basename $ifile`
+desi_calibrate_tsnr_ensemble -i ./tsnr-ensemble-*.fits$ifile --tsnr-table-filename /global/cfs/cdirs/desi/spectro/redux/everest/exposures-everest.fits  --plot -o $ofile
+done
+cp ./tsnr-ensemble-*.fits $DESIMODEL/data/tsnr/
+
+============================================================================
+
+J. Guy 2021/06/04
+
+New tsnr-ensemble files after changes to the code
+from desispec pull request https://github.com/desihub/desispec/pull/1274 .
+
+Files obtained in 3 steps:
+
+1) compute the templates with:
+
+nmod=1000
+desi_compute_tsnr_ensemble --nmodel $nmod --tracer elg --outdir .
+desi_compute_tsnr_ensemble --nmodel $nmod --tracer lrg --outdir .
+desi_compute_tsnr_ensemble --nmodel $nmod --tracer qso --outdir .
+desi_compute_tsnr_ensemble --nmodel $nmod --tracer bgs --outdir .
+
+save the resulting templates in local $DESIMODEL/data/tsnr/
+
+2) recompute tsnr for many nights using the daily production with
+nights after May 10 (new ETC json files).
+
+srun -N 5 -n 5 -c 32 desi_tsnr_afterburner --prod daily --night 20210510,20210511,20210512,20210513,20210514,20210515,20210516,20210517,20210518,20210519,20210521,20210522,20210523 --recompute --nproc 16 --compute-skymags --gfa-proc-dir /global/cfs/cdirs/desi/survey/GFA/ --aux /global/cfs/cdirs/desi/survey/observations/SV1/sv1-tiles.fits -o ./tsnr-calib.fits
+
+3) calibrate and save the calibrations in the files
+
+for t in bgs elg lrg qso lya gpbdark gpbbright gpbbackup ; do
+desi_calibrate_tsnr_ensemble -i $DESIMODEL/data/tsnr/tsnr-ensemble-$t.fits --tsnr-table tsnr-calib.fits --plot -o calibrated/tsnr-ensemble-$t.fits
+done

@@ -1,0 +1,76 @@
+Completeness Results Summary
+==================================================
+Generated: 2026-04-29 15:11:24
+
+Density: 4000
+------------------------------
+  Run: 2026-04-13T13:23
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 6
+
+  Run: 2026-04-15T16:37
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 6
+
+  Run: 2026-04-15T17:10
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-ModuleWalls
+    FA Files: 6
+
+  Run: 2026-04-15T17:15
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-NoModuleWalls
+    FA Files: 6
+
+Density: 6000
+------------------------------
+  Run: 2026-04-13T13:23
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 7
+
+  Run: 2026-04-15T16:37
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 7
+
+  Run: 2026-04-15T17:10
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-ModuleWalls
+    FA Files: 6
+
+  Run: 2026-04-15T17:15
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-NoModuleWalls
+    FA Files: 6
+
+Density: 8000
+------------------------------
+  Run: 2026-04-13T13:23
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 10
+
+  Run: 2026-04-15T16:37
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 9
+
+  Run: 2026-04-15T17:10
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-ModuleWalls
+    FA Files: 9
+
+  Run: 2026-04-15T17:15
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-NoModuleWalls
+    FA Files: 8
+
+Density: 10000
+------------------------------
+  Run: 2026-04-13T13:23
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 9
+
+  Run: 2026-04-15T16:37
+    Config: Framed-GlobalGap4.4mm-ModuleWalls
+    FA Files: 9
+
+  Run: 2026-04-15T17:10
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-ModuleWalls
+    FA Files: 9
+
+  Run: 2026-04-15T17:15
+    Config: SemiFrameless-GlobalGap4.4mm-InnerGap0.5mm-NoModuleWalls
+    FA Files: 9
+

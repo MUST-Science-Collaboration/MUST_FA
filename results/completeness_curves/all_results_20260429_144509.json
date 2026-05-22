@@ -1,0 +1,21 @@
+{
+  "4000": {
+    "2026-04-13T13:23:00+00:00": {
+      "completeness_module": [
+        0.6543932564537844,
+        0.5148992918237837
+      ],
+      "completeness_outer": [
+        0.8861441198852661,
+        0.6970477329163984
+      ],
+      "stats": {
+        "n_rows": 16227,
+        "n_unique": 16227,
+        "unique_fraction": 1.0
+      },
+      "num_fa_files": 6,
+      "plybase": "Framed-GlobalGap4.4mm-ModuleWalls"
+    }
+  }
+}

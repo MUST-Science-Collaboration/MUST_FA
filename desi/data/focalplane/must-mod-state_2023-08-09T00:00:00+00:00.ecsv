@@ -1,0 +1,17 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: MODULE, datatype: int32, description: Module number}
+# - {name: OFFSET_X, unit: mm, datatype: float32, description: X location of module region corner}
+# - {name: OFFSET_Y, unit: mm, datatype: float32, description: Y location of module region corner}
+# - {name: EXCLUSION, datatype: string, description: The exclusion polygon for this module}
+# - {name: DIRECTION, datatype: int32, description: Triangle direction of this module (0-5 times 60)}
+# meta: {armlen: 1.8, mdist: 0.2, mpdist: 6.5, nlayer: 1, nmod: 6, npos_mod: 10, nside: 4, pdist: 6.2}
+# schema: astropy-2.0
+MODULE OFFSET_X OFFSET_Y EXCLUSION DIRECTION
+0 0.0 0.0 default 0
+1 0.0 0.0 default 1
+2 0.0 0.0 default 2
+3 0.0 0.0 default 3
+4 0.0 0.0 default 4
+5 0.0 0.0 default 5
